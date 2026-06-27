@@ -16,10 +16,6 @@ HardwareInfo is a comprehensive project that collects and displays detailed info
 
 This project was quite complex and involved a deep understanding of Windows APIs and COM interfaces. It required careful handling of various system resources and a thorough debugging process to ensure reliable and accurate information retrieval.
 
-## Future Plans
-
-If this repository reaches 5 stars, I will undertake the challenge of rewriting this project in assembly language! This will not only be a test of low-level programming skills but also a way to explore the hardware interactions in even greater detail.
-
 ## Getting Started
 
 ### Prerequisites
